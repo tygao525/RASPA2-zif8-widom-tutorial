@@ -1,0 +1,7 @@
+record,henry_mol_kg_Pa,reported_error_mol_kg_Pa,henry_mol_kg_bar,reported_error_mol_kg_bar
+block_0,2.21659e-05,,2.21659,
+block_1,2.29866e-05,,2.29866,
+block_2,2.22233e-05,,2.22233,
+block_3,2.36357e-05,,2.36357,
+block_4,2.28669e-05,,2.28669,
+average,2.27757e-05,7.52442e-07,2.27757,0.0752442
